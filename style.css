@@ -1,0 +1,12 @@
+.container{
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-image:url("./img/hero.jpeg");
+    height: 100vh;
+    color: #000000;
+    width: 100vw;
+    
+    z-index: 0;
+}
+
